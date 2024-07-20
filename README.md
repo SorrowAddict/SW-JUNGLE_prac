@@ -1,5 +1,6 @@
 # SW 사관학교 정글(카이스트) 학습자료 기록
 
+<br>
 
 > 이렇게 학습했어요 !
 
@@ -9,6 +10,10 @@
 - Chapter 3 : 파이썬, 데이터베이스 - Python, mongoDB
 - Chapter 4 : 백엔드 - Flask
 - Chapter 5 : 배포 - AWS
+
+> 참고사항 : 시험 관련 자료는 .gitignore에 포함되어 있습니다.
+
+<br>
 
 ## Getting Started / 어떻게 시작하나요?
 
