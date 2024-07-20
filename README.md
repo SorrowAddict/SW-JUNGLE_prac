@@ -88,7 +88,6 @@ Amazon EC2 instance
 > 비용상의 문제로 곧 인스턴스 중지 예정
 
 ![alt text](image.png)
-
 ![alt text](image-1.png)
 
 
