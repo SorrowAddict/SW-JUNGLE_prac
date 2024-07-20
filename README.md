@@ -58,7 +58,6 @@ Amazon EC2 instance
 
 ![alt text](image.png)
 
-<br/>
 
 ## Built With / 누구랑 만들었나요?
 
